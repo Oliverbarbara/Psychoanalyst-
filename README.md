@@ -5,7 +5,7 @@ Psychoanalyst website,
 Responsive and interactive website, blog post style, for a clinical psychoanalyst, with details of her treatments and self-help. 
 
 
-<img src="/yara-site/yara.png">
+<img src="/Psi-site/yara.png">
 
 ## Features
 
